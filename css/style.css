@@ -82,8 +82,8 @@ html {
 .hero_area {
   height: 100vh;
   background-color: #ffffff;
-  /* background-image: url(../images/hero-bg.jpg); */
-  /* background-size: cover; */
+  background-image: url(../images/hero-bg.jpg);
+  background-size: cover;
 }
 
 .header_section {
